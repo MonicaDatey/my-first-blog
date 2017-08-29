@@ -25,7 +25,7 @@ SECRET_KEY = '^t_3+x)y0xy^71c61bc(e(_q@0x)st@m=)2jcpqnutzcwo02(a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<ADMIN>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'MonicaDatey.pythonanywhere.com']
 
 
 # Application definition
